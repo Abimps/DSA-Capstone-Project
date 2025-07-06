@@ -37,5 +37,9 @@ TotalFields: 16 columns
 
   In the initial phase of the Data cleaning and preparations, we performed the following action;
   1. Data loading and inspection
+  2. Handling missing variables
+  3. Data cleaning and formating
+ 
+  ### Exploratory Data Analysis
 
 
