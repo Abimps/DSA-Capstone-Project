@@ -1,5 +1,5 @@
 # DSA-Capstone-Project
-This is where I began my Portfolio building whiletaking my Data Analysisclass with the Incubator Hub.
+This is where I began my Portfolio building while taking my Data Analysisclass with the Incubator Hub.
  
 I have learnt quite a number of things ranging from Ms Excel, SQL, Power BI and now to my portfolio Building.
 
@@ -32,5 +32,10 @@ TotalFields: 16 columns
 - Ms 365 Excel for Data Cleaning and power Query [Download Here](https://www.microsoft.com) 
 - Pivot Tables and calculated columns for analysis and building of Dashboard 
 - Ms Power point for presentation
+
+  ### Data cleaning and preparation
+
+  In the initial phase of the Data cleaning and preparations, we performed the following action;
+  1. Data loading and inspection
 
 
