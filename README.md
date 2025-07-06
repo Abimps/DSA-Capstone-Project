@@ -11,7 +11,29 @@ I worked on two case studies by carrying out a comprehensive Exploratory Data
 Analysis (EDA) using the appropriate analytical tools and techniques relevant to the
 context of each dataset.
 
-Case Study 1: Amazon Product Review Analysis
-1. Company Overview
-You are working as a Junior Data Analyst at RetailTech Insights, a company that provides
-e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been
+### Case Study 1: Amazon Product Review Analysis 
+
+My team was tasked with analysing product and customer review data to generate insights that can
+guide product improvement, marketing strategies, and customer engagement for a company on Amazon platform.
+
+### Data source
+
+The primary source of dataset contained information scraped from Amazon product pages, including:
+
+• Product details: name, category, price, discount, and ratings
+
+• Customer engagement: user reviews, titles, and content
+
+• Each row represented a unique product, with aggregated reviewer data stored as comma-separated values.
+Total Records: 1,465 rows
+TotalFields: 16 columns
+
+### Tools used
+
+Ms 365 Excel for Data Cleaning and power Query
+
+Pivot Tables and calculated columns for analysis and building of Dashboard 
+
+Ms Power point for presentation
+
+
