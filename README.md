@@ -13,7 +13,7 @@ context of each dataset.
 
 ### Case Study 1: Amazon Product Review Analysis 
 
-My team was tasked with analysing product and customer review data to generate insights that can
+I was tasked with analysing product and customer review data to generate insights that can
 guide product improvement, marketing strategies, and customer engagement for a company on Amazon platform.
 
 ### Data source
@@ -35,7 +35,7 @@ TotalFields: 16 columns
 
   ### Data cleaning and preparation
 
-  In the initial phase of the Data cleaning and preparations, we performed the following action;
+  In the initial phase of the Data cleaning and preparations, I performed the following actions;
   1. Data loading and inspection
   2. Handling missing variables
   3. Data cleaning and formating
